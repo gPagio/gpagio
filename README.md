@@ -11,7 +11,7 @@
 🔧 Tenho conhecimento em linguagens como PL/SQL, Java e C#. Minha trajetória profissional até agora me permitiu construir habilidades sólidas:
 
 - 💼 Atuei na criação de rotinas, dashboards e relatórios para o ERP Sankhya utilizando PL/SQL e Java.
-- 🚀 Estou explorando o desenvolvimento de novas telas para o ERP Sankhya através de extensões, utilizando tecnologias como Java, HTML5, CSS3 e JavaScript.
+- 🚀 Estou explorando o desenvolvimento de novas telas para o ERP Sankhya através de extensões, utilizando Java na construção do Back-end e HTML5, CSS3 e JavaScript para a concepção do Front-end.
 - 📊 Participei na construção de relatórios com iReport e na criação de dashboards e rotinas para o ERP Sankhya.
 - 🌱 Estou empenhado em aprender e aplicar versionamento com Git e GitHub para manter meus projetos organizados.
 
@@ -23,7 +23,7 @@
 
 ## Objetivos Futuros
 
-🚀 Tenho como objetivo seguir uma carreira sólida como desenvolvedor, com um foco apaixonado no desenvolvimento back-end. Quero continuar aprimorando minhas habilidades e explorar novas tecnologias para criar soluções eficientes e inovadoras.
+🚀 Tenho como objetivo seguir uma carreira sólida como desenvolvedor, com um foco apaixonado no desenvolvimento Back-end. Quero continuar aprimorando minhas habilidades e explorar novas tecnologias para criar soluções eficientes e inovadoras.
 
 ## Contato
 
