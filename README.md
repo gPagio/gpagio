@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-📚 Tenho 19 anos e estou trilhando meu caminho no mundo da tecnologia. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Multivix, com previsão de término para o segundo semestre de 2025.
+📚 Olá, meu nome é Guilherme e estou trilhando meu caminho no mundo da tecnologia. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Multivix, com previsão de término para o segundo semestre de 2025.
 
 💡 Tenho uma paixão por utilizar a tecnologia para solucionar problemas e otimizar processos rotineiros. Sempre busco alternativas simples que agilizem o trabalho das pessoas, sem comprometer a qualidade, eficiência e segurança.
 
