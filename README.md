@@ -27,11 +27,13 @@
 
 ## Contato
 
-📧 E-mail: 
+📧 E-mail: guilhermepagio.contato@gmail.com
 ```
 guilhermepagio.contato@gmail.com
 ```
-💼 LinkedIn: 
-[linkedin.com/in/guilhermepagio](https://www.linkedin.com/in/guilhermepagio)
+💼 LinkedIn: [linkedin.com/in/guilhermepagio](https://www.linkedin.com/in/guilhermepagio)
+```
+linkedin.com/in/guilhermepagio
+```
 
 Obrigado por conhecer um pouco mais sobre mim e minha jornada no mundo da programação e desenvolvimento de software! 🙌
