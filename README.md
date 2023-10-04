@@ -13,7 +13,7 @@
 - 💼 Atuei na criação de rotinas para o ERP Sankhya utilizando Java e PL/SQL.
 - 🚀 Estou explorando o desenvolvimento de novas telas para o ERP Sankhya através de extensões, utilizando Java na construção do Back-end e HTML5, CSS3 e JavaScript para a concepção do Front-end.
 - 📊 Participei na construção de relatórios com iReport e na criação de dashboards para o ERP Sankhya utilizando Java e SQL.
-- 🌱 Estou empenhado em aprender e aplicar versionamento com Git e GitHub para manter meus projetos organizados.
+- 🌱 Faço uso constante de Git e GitHub para aplicar versionamento e manter meus projetos organizados.
 
 🔑 Minhas competências incluem Java, Banco de Dados Oracle, SQL, PL/SQL e Linux.
 
