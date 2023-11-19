@@ -6,16 +6,19 @@
 
 💡 Tenho uma paixão por utilizar a tecnologia para solucionar problemas e otimizar processos rotineiros. Sempre busco alternativas simples que agilizem o trabalho das pessoas, sem comprometer a qualidade, eficiência e segurança.
 
-## Sobre o Repositório
+## Sobre Meus Repositórios
+### Nomenclatura
 🗂️ Este perfil possui um padrão de nomenclatura para os repositórios aqui presentes, onde as regras são as seguintes:
 
-| Sufixo | Descrição | Exemplo |
+| Prefixo | Descrição | Exemplo |
 | --- | --- | --- |
 | bootcamp | Usado em projetos desenvolvidos durante eventos que participei | bootcamp-rocketseat-todolist-springboot |
 | curso | Usado em projetos desenvolvidos durante cursos que fiz | curso-alura-formacao-java |
 | multivix | Usado em projetos desenvolvidos na faculdade | multivix-aulas-faculdade |
 | projeto | Usado em projetos pessoais, sejam projetos reais ou com objetivo de aprendizado | projeto-experimentos-pessoais |
 | trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | trabalho-modulo-erp |
+
+💡 A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios
 
 ## Experiência e Habilidades
 
