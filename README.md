@@ -19,9 +19,10 @@
 | trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-nome-projeto | trabalho-modulo-erp |
 
 > [!IMPORTANT]
-> Para os repositórios de prefixo `multivix`:
-> - O repositorio `multivix-aulas-faculdade` contém somente o conteúdo realizado durante as aulas da faculdade, ele é único e foi criado com somente este objetivo.
-> - Os repositórios que são armazenados os trabalhos possuem a seguinte convenção de nomenclatura `multivix-(Nº semestre)s-(Nº bimestre)b-trabalho-(disciplina)`, o repositório `multivix-4s-2b-trabalho-lp1` é um bom exemplo.[^1]
+> 1. TODOS os repositórios usam o padrão de escrita `Kebab Case`, o qual compete a todas as palavras escritas com letras minúsculas e separadas por hífens.
+> 1. Para os repositórios de prefixo `multivix`:
+>    - O repositorio `multivix-aulas-faculdade` contém somente o conteúdo realizado durante as aulas da faculdade, ele é único e foi criado com somente este objetivo.
+>    - Os repositórios que são armazenados os trabalhos possuem a seguinte convenção de nomenclatura `multivix-(Nº semestre)s-(Nº bimestre)b-trabalho-(disciplina)`, o repositório `multivix-4s-2b-trabalho-lp1` é um bom exemplo.[^1]
 
 > [!NOTE]
 > A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios
