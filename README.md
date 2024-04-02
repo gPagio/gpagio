@@ -26,7 +26,7 @@
 
 > [!NOTE]
 > 1. A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios.
-> 1. Vale mencionar que repositórios oriundos de forks não serão submetidos a tal padrão por não estarem no escopo de responsabilidade do autor.
+> 1. Vale mencionar que repositórios oriundos de forks também serão submetidos a tal padrão, tendo seu nome original no repositório de responsabilidade do autor.
 
 ## Experiência e Habilidades
 
