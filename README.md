@@ -14,6 +14,7 @@
 | --- | --- | --- | --- |
 | bootcamp | Usado em projetos desenvolvidos durante eventos que participei | prefixo-promotor-nome-evento | bootcamp-rocketseat-todolist-springboot |
 | curso | Usado em projetos desenvolvidos durante cursos que fiz | prefixo-instituicao-nome-curso | curso-alura-formacao-java |
+| livro | Usado em projetos desenvolvidos durante estudos realizados em livros | prefixo-nome-livro-editora | livro-java-8-como-programar-pearson-universidades |
 | multivix | Usado em projetos desenvolvidos na faculdade. | prefixo-nome-projeto | multivix-aulas-faculdade |
 | projeto | Usado em projetos pessoais, sejam projetos reais ou com objetivo de aprendizado | prefixo-nome-projeto | projeto-experimentos-pessoais |
 | trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-nome-projeto | trabalho-modulo-erp |
