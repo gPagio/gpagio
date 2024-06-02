@@ -3,7 +3,7 @@
 ## 📚 Sobre Mim
 Cursando Bacharelado em Sistemas de Informação na Multivix com previsão de término para segundo semestre de 2025. Gosto de usar tecnologia para resolver problemas e melhorar processos rotineiros/repetitivos, prezando sempre pela alternativa mais simples, que agilize o trabalho das pessoas, mas que não deixe de ter qualidade, eficiência e segurança.
 
-## 💡Experiência e Habilidades
+## 💡Experiências e Habilidades
 
 ### 💚 ERP Sankhya
  - Criação de novas telas;
