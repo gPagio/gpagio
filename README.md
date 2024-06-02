@@ -1,14 +1,55 @@
-# Guilherme Pagio - 👨‍💻 Desenvolvedor em Formação
+# 👨‍💻 Guilherme Pagio - Desenvolvedor em Formação
 
-## Sobre Mim
+## 📚 Sobre Mim
+Cursando Bacharelado em Sistemas de Informação na Multivix com previsão de término para segundo semestre de 2025. Gosto de usar tecnologia para resolver problemas e melhorar processos rotineiros/repetitivos, prezando sempre pela alternativa mais simples, que agilize o trabalho das pessoas, mas que não deixe de ter qualidade, eficiência e segurança.
 
-📚 Olá, meu nome é Guilherme e estou trilhando meu caminho no mundo da tecnologia. Atualmente, estou cursando Bacharelado em Sistemas de Informação na Multivix, com previsão de término para o segundo semestre de 2025.
+## 💡Experiência e Habilidades
 
-💡 Tenho uma paixão por utilizar a tecnologia para solucionar problemas e otimizar processos rotineiros. Sempre busco alternativas simples que agilizem o trabalho das pessoas, sem comprometer a qualidade, eficiência e segurança.
+### 💚 ERP Sankhya
+ - Criação de novas telas;
+ - Manutenção em telas existentes;
+ - Criação de botões de ação (botões que automatizam processos, como incluir itens em um pedido);
+ - Simplificação de processos, diminuindo a quantidade de passos para realizar determinadas funções;
+ - Criação de rotinas para automação de processos manuais, como salvar a cotação de compra de moedas extrangeiras diariamente.
 
-## Sobre Meus Repositórios
+### ☕ Java
+ - Rotinas para ERP Sankhya:
+     - Criação de novas rotinas;
+     - Manutenção de rotinas existentes;
+     - Conversão de rotinas PL/SQL legadas para Java;
+     - Refatoração de rotinas Java legadas.
+ - Pequenos programas estilo console fazendo CRUD básico;
+ - Conexão com banco de dados;
+ - Conexão com APIs externas;
+ - Manipulação de arquivos.
+
+### 🍃 Spring Framework
+ - Desenvolvimente de APIs Rest;
+ - Utilização da Spring JPA para comunicação com banco de dados;
+ - APIs intermediárias: APIs que se conectam a outras APIs e ampliam a gama de funcionalidades oferecidas.
+
+### 💾 Oracle Database
+ - Criação e manutenção de functions, packages, procedures e triggers;
+ - Refatoração de objetos de banco para simplificar regras de negócio;
+ - Centralização de pequenas regras em functions e procedures agrupadas em pacotes.
+
+### 🐧 Linux
+ - Configuração de ambiente servidor;
+ - Configuração de ambiente de desenvolvimento;
+ - Manipulação de containers Docker.
+
+### 🐋 Docker
+ - Utilizado para subir várias instâncias de diferentes banco de dados.
+
+### :octocat: Git e GitHub
+ - Versionamento de código;
+ - Conventional Commits (Padrão de Commits do Angular);
+ - Desenvolvimento compartilhado;
+ - Criar portifólio com meus projetos.
+
+## ℹ️ Sobre Meus Repositórios
 ### Convenção de Nomenclatura
-🗂️ Este perfil possui uma convenção de nomenclatura para os repositórios aqui presentes, onde as regras são as seguintes:
+Este perfil possui uma convenção de nomenclatura para os repositórios aqui presentes, onde as regras são as seguintes:
 
 | Prefixo | Descrição | Aplicação | Exemplo |
 | --- | --- | --- | --- |
@@ -20,36 +61,14 @@
 | trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-nome-projeto | trabalho-modulo-erp |
 
 > [!IMPORTANT]
-> 1. TODOS os repositórios usam o padrão de escrita `Kebab Case`, o qual compete a todas as palavras escritas com letras minúsculas e separadas por hífens.
-> 1. Para os repositórios de prefixo `multivix`:
->    - O repositorio `multivix-aulas-faculdade` contém somente o conteúdo realizado durante as aulas da faculdade, ele é único e foi criado com somente este objetivo.
->    - Os repositórios que são armazenados os trabalhos possuem a seguinte convenção de nomenclatura `multivix-(Nº semestre)s-(Nº bimestre)b-trabalho-(disciplina)`, o repositório `multivix-4s-2b-trabalho-lp1` é um bom exemplo.[^1]
-
-> [!NOTE]
 > 1. A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios.
+> 1. TODOS os repositórios usam o padrão de escrita `kebab-case`, o qual compete a todas as palavras escritas com letras minúsculas e separadas por hífens.
+> 1. Para os repositórios de prefixo `multivix`:
+>     1. O repositorio `multivix-aulas-faculdade` contém somente o conteúdo realizado durante as aulas da faculdade, ele é único e foi criado com somente este objetivo.
+>     1. Os repositórios que são armazenados os trabalhos possuem a seguinte convenção de nomenclatura `multivix-(Nº semestre)s-(Nº bimestre)b-trabalho-(disciplina)`, o repositório `multivix-4s-2b-trabalho-lp1` é um bom exemplo.[^1]
 > 1. Vale mencionar que repositórios oriundos de forks também serão submetidos a tal padrão, tendo seu nome original no repositório de responsabilidade do autor.
 
-## Experiência e Habilidades
-
-🔧 Tenho conhecimento em linguagens como PL/SQL, Java e C#. Minha trajetória profissional até agora me permitiu construir habilidades sólidas:
-
-- 💼 Atuei na criação de rotinas para o ERP Sankhya utilizando Java e PL/SQL.
-- 🚀 Estou explorando o desenvolvimento de novas telas para o ERP Sankhya através de extensões, utilizando Java na construção do Back-end e HTML5, CSS3 e JavaScript para a concepção do Front-end.
-- 📊 Participei na construção de relatórios com iReport e na criação de dashboards para o ERP Sankhya utilizando Java e SQL.
-- 🌱 Faço uso constante de Git e GitHub para aplicar versionamento e manter meus projetos organizados.
-
-🔑 Minhas competências incluem Java, Banco de Dados Oracle, SQL, PL/SQL e Linux.
-
-## Formação Acadêmica
-
-🎓 Estou buscando minha primeira graduação em Bacharelado em Sistemas de Informação na Multivix. Meu período de estudos é de março de 2022 a dezembro de 2025, e essa formação é minha base para ingressar no competitivo mercado de trabalho da área de tecnologia.
-
-## Objetivos Futuros
-
-🚀 Tenho como objetivo seguir uma carreira sólida como desenvolvedor, com um foco apaixonado no desenvolvimento Back-end. Quero continuar aprimorando minhas habilidades e explorar novas tecnologias para criar soluções eficientes e inovadoras.
-
-## Contato
-
+## 📞 Contato
 📧 E-mail: guilhermepagio.contato@gmail.com
 ```
 guilhermepagio.contato@gmail.com
