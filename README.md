@@ -47,7 +47,7 @@ Cursando Bacharelado em Sistemas de Informação na Multivix com previsão de t�
  - Desenvolvimento compartilhado;
  - Criar portifólio com meus projetos.
 
-## ℹ️ Sobre Meus Repositórios
+## ⚠️ Regras Sobre Meus Repositórios
 ### Convenção de Nomenclatura
 Este perfil possui uma convenção de nomenclatura para os repositórios aqui presentes, onde as regras são as seguintes:
 
@@ -58,7 +58,7 @@ Este perfil possui uma convenção de nomenclatura para os repositórios aqui pr
 | livro | Usado em projetos desenvolvidos durante estudos realizados em livros | prefixo-editora-nome-livro | livro-pearson-java-8-como-programar |
 | multivix | Usado em projetos desenvolvidos na faculdade. | prefixo-nome-projeto | multivix-aulas-faculdade |
 | projeto | Usado em projetos pessoais, sejam projetos reais ou com objetivo de aprendizado | prefixo-nome-projeto | projeto-experimentos-pessoais |
-| trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-nome-projeto | trabalho-modulo-erp |
+| trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-empresa-nome-projeto | trabalho-acme-modulo-erp |
 
 > [!IMPORTANT]
 > 1. A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios.
