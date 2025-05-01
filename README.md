@@ -1,51 +1,41 @@
 # 👨‍💻 Guilherme Pagio - Desenvolvedor em Formação
 
 ## 📚 Sobre Mim
-Cursando Bacharelado em Sistemas de Informação na Multivix com previsão de término para segundo semestre de 2025. Gosto de usar tecnologia para resolver problemas e melhorar processos rotineiros/repetitivos, prezando sempre pela alternativa mais simples, que agilize o trabalho das pessoas, mas que não deixe de ter qualidade, eficiência e segurança.
+🎓 Cursando Bacharelado em Sistemas de Informação na Multivix (término previsto: 2025).  
+🧠 Interesse em arquitetura de software, padronização de código e otimização de processos.  
+🧰 Valorizo o uso da tecnologia como meio de transformação real, com foco em qualidade e agilidade.
 
 ## 💡Experiências e Habilidades
 
 ### 💚 ERP Sankhya
- - Criação de novas telas;
- - Manutenção em telas existentes;
- - Criação de botões de ação (botões que automatizam processos, como incluir itens em um pedido);
- - Simplificação de processos, diminuindo a quantidade de passos para realizar determinadas funções;
- - Criação de rotinas para automação de processos manuais, como salvar a cotação de compra de moedas extrangeiras diariamente.
+ - Criação e manutenção de telas no sistema;
+ - Desenvolvimento de automações utilizando Java e PL/SQL, otimizando rotinas manuais e processos internos;
+ - Simplificação de processos, reduzindo a quantidade de passos necessários para execução de tarefas no ERP.
 
 ### ☕ Java
  - Rotinas para ERP Sankhya:
-     - Criação de novas rotinas;
-     - Manutenção de rotinas existentes;
+     - Criação e manutenção de automações;
      - Conversão de rotinas PL/SQL legadas para Java;
      - Refatoração de rotinas Java legadas.
- - Pequenos programas estilo console fazendo CRUD básico;
- - Conexão com banco de dados;
- - Conexão com APIs externas;
- - Manipulação de arquivos.
+ - Arquitetura MVC;
+ - Estrutura de dados.
 
 ### 🍃 Spring Framework
- - Desenvolvimente de APIs Rest;
- - Utilização da Spring JPA para comunicação com banco de dados;
- - APIs intermediárias: APIs que se conectam a outras APIs e ampliam a gama de funcionalidades oferecidas.
+ - Criação de APIs REST;
+ - Uso do Spring JPA para persistência de dados.
 
 ### 💾 Oracle Database
  - Criação e manutenção de functions, packages, procedures e triggers;
- - Refatoração de objetos de banco para simplificar regras de negócio;
- - Centralização de pequenas regras em functions e procedures agrupadas em pacotes.
+ - Refatoração de objetos de banco para clareza e performance;
+ - Centralização de regras em pacotes reutilizáveis.
 
-### 🐧 Linux
- - Configuração de ambiente servidor;
- - Configuração de ambiente de desenvolvimento;
- - Manipulação de containers Docker.
-
-### 🐋 Docker
- - Utilizado para subir várias instâncias de diferentes banco de dados.
+### 🐧 Linux e Docker
+ - Configuração de ambientes de desenvolvimento e servidor.
+ - Subida de múltiplas instâncias de bancos em containers.
 
 ### :octocat: Git e GitHub
- - Versionamento de código;
- - Conventional Commits (Padrão de Commits do Angular);
- - Desenvolvimento compartilhado;
- - Criar portifólio com meus projetos.
+ - Versionamento com Conventional Commits.
+ - Trabalho colaborativo e portfólio público organizado.
 
 ## ⚠️ Regras Sobre Meus Repositórios
 ### Convenção de Nomenclatura
@@ -61,12 +51,9 @@ Este perfil possui uma convenção de nomenclatura para os repositórios aqui pr
 | trabalho | Usados em projetos desenvolvidos para o mercado de trabalho que estou inserido | prefixo-empresa-nome-projeto | trabalho-acme-modulo-erp |
 
 > [!IMPORTANT]
-> 1. A ideia veio com o objetivo de tornar mais simples a identificação de cada repositório ao longo do tempo com o possível surgimento de outros repositórios.
-> 1. TODOS os repositórios usam o padrão de escrita `kebab-case`, o qual compete a todas as palavras escritas com letras minúsculas e separadas por hífens.
-> 1. Para os repositórios de prefixo `multivix`:
->     1. O repositorio `multivix-aulas-faculdade` contém somente o conteúdo realizado durante as aulas da faculdade, ele é único e foi criado com somente este objetivo.
->     1. Os repositórios que são armazenados os trabalhos possuem a seguinte convenção de nomenclatura `multivix-(Nº semestre)s-(Nº bimestre)b-trabalho-(disciplina)`, o repositório `multivix-4s-2b-trabalho-lp1` é um bom exemplo.[^1]
-> 1. Vale mencionar que repositórios oriundos de forks também serão submetidos a tal padrão, tendo seu nome original no repositório de responsabilidade do autor.
+> 1. Todos os repositórios seguem o padrão `kebab-case`.
+> 1. Forks também são renomeados seguindo esta convenção.
+> 1. Trabalhos da faculdade são organizados por semestre e bimestre conforme: `multivix-4s-2b-trabalho-(disciplina)`.
 
 ## 📞 Contato
 📧 E-mail: guilhermepagio.contato@gmail.com
@@ -78,6 +65,4 @@ guilhermepagio.contato@gmail.com
 linkedin.com/in/guilhermepagio
 ```
 
-Obrigado por conhecer um pouco mais sobre mim e minha jornada no mundo da programação e desenvolvimento de software! 🙌
-
-[^1]: As informações entre os parênteses são variáveis, ou seja, escolhida na hora de criar o repositório de acordo com o contexto do mesmo, já as informações ao lado de fora do parêntese são fixas, ou seja, devem ser respeitadas e permanecer em seu devido lugar para respeitar a convenção.
+Obrigado por conhecer um pouco mais sobre mim e minha jornada no mundo do desenvolvimento! 🙌
