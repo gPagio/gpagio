@@ -32,7 +32,7 @@ Além do desenvolvimento de novas features, possuo vasta experiência em cenári
 
 ---
 
-## ⚠️ Convenção de Nomencladura dos Meus Repositórios
+## ⚠️ Convenção de Nomenclatura dos Meus Repositórios
 Para organização eu adotei uma convenção de nomenclatura para os repositórios do meu perfil, onde as regras são as seguintes:
 
 | Prefixo | Descrição | Aplicação | Exemplo |
